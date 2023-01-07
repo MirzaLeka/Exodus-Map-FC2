@@ -1,11 +1,27 @@
 # Exodus
 
-![](https://exodus-map-fc2.s3.eu-central-1.amazonaws.com/screenshots/40%25-map.jpg)
-
 Map built with Far Cry 2 Map Editor (Dunia Engine)
 
+![](https://exodus-map-fc2.s3.eu-central-1.amazonaws.com/screenshots/40%25-map.jpg)
+
+## General Info
+
+Exodus map is a fan-made map that aims to reimagine events post Far Cry 2 campaign.
+Map is still in the development state and features plenty of abandoned places, urban and rural areas.
+
+The idea is to built an open map for upto 16 players to scavage and compete, as well as some smaller modes for single-player experience.
+
+## Map Locations (at the moment)
+
+* Twin Peaks
+* Industrial Compound
+* Dogon
+* Trainyard
+* Border
 
 ## Get Hands On
+
+Keep in mind that this is a hobby project and the map is still in early development stages and what you test today may or may not be part of the final project.
 
 * Make sure Far Cry 2 is installed on your machine
 * Download the [map](https://github.com/MirzaLeka/Exodus-Map-FC2/tree/master/map)
@@ -18,7 +34,3 @@ Map built with Far Cry 2 Map Editor (Dunia Engine)
 
 Now you can spectate trough the map and edit it yourself. To test in game press **CTRL + G**
 
-## Todo 
-
-* Development Roadmap
-* Map Locations
